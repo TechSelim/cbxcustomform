@@ -2,3 +2,4 @@
 CBX Custom Form
 
 # Shortcode
+[cbxcustomform]
