@@ -1,0 +1,45 @@
+/* form */
+.cbxcf-form{
+    padding: 30px;
+    background: #f9f9f9;
+}
+.cbxcf-form label, 
+.cbxcf-form input,
+.cbxcf-form textarea {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.cbxcf-form label{
+    display: inline-block;
+}
+.cbxcf-form input{
+    width: 100%;
+}
+#loginform .login-remember input[type='checkbox'] {
+    width: auto !important;
+    display: inline !important;
+}
+
+.cbxcf-form input[type='submit'] {
+    margin-top: 20px;
+    background: #28303d;
+}
+/* Form feedback */
+.cbxcf-form #feedback {
+    margin-bottom: 10px;
+}
+.cbxcf-form .success{
+    display: block;
+    background-color: rgb(57 236 12);
+    color: rgb(9 104 0);
+    padding: 5px;
+    text-align: center;
+}
+.cbxcf-form .error{
+    display: block;
+    background-color: rgb(236, 5, 5);
+    color: rgb(66, 1, 1);
+    padding: 5px;
+    text-align: center;
+}
